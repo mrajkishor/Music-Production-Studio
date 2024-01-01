@@ -1,4 +1,4 @@
-**Objective** : Designing a music production studio software with AI capabilities to convert voice hints into music involves several components.
+**Objective** : Designing a music production studio software with AI capabilities to convert voice hints into music
 
 ### System Design
 
